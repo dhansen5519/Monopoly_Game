@@ -1,6 +1,7 @@
 ## Project Overview
 
-![Planning Board](images/board.png)
+![Planning Board](Monopoly_Plan.png)
+
 This project is a simplified Monopoly-style game implemented in C++ using arrays, vectors, and a hash table.
 
 - Hash Table: Stores board information for fast property lookups.
